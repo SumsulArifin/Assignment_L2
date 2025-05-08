@@ -74,7 +74,7 @@ function processValue(value: string | number): number {
         return value * 2;
     }
 }
-console.log(processValue("Sumsul Arifin"));
+console.log(processValue("Sumsul Arifin "));
 console.log(processValue(11));
 
 interface Product {
